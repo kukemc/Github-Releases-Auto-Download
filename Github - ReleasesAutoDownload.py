@@ -33,7 +33,7 @@ def download_releases(owner, repo, keywords):
 # Input parameters
 owner = "SIPC"
 repo = "Releases-Auto-Download"
-keywords = ["v"]
+keywords = ["Download"]
 
 # 调用下载函数
 # Call the download function
